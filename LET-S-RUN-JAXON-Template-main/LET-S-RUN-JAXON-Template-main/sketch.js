@@ -24,10 +24,6 @@ function setup(){
   
 
  leftBoundary=createSprite(0,0,100,800);
-
- leftBoundary.invisible = false;
- leftBoundary.visible = true;
- leftBoundary.invisible = true;
  leftBoundary.visible = false;
 
 
